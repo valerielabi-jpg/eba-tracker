@@ -1,7 +1,7 @@
 // EBA Materials Tracker — Service Worker
 // Cache-first for app shell, network-first for Supabase API, background sync for offline queue
 
-const CACHE_NAME    = 'eba-tracker-v1';
+const CACHE_NAME   = 'eba-tracker-v2';
 const SUPABASE_HOST = 'mtyyqmgjfzuwuylhxvqn.supabase.co';
 const SYNC_TAG      = 'eba-offline-sync';
 
