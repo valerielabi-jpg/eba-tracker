@@ -2,7 +2,7 @@
   "name": "EBA Materials Tracker",
   "short_name": "EBA Tracker",
   "description": "Track and manage boot camp materials for Educate! Uganda SEE Change programme",
-  "start_url": "/",
+    "start_url": "/eba-tracker/",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#1D9E75",
